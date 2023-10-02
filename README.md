@@ -6,3 +6,5 @@
 6. **Abhängigkeiten**: Benötigte Software oder Bibliotheken.
 7. **Kontaktinformation**: Wie man die Entwickler erreicht.
 8. **Danksagungen**: Anerkennung für Beiträge.
+
+Bli bla blub
